@@ -1,1 +1,2 @@
 Go Live
+This branch also demonstrates how to use the Split Editor feature in VS Code.
