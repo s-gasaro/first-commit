@@ -1,0 +1,10 @@
+1. git init and git status - shows repository initialization
+2. README.md commit - shows first commit with "Add initial Readme"
+3. Branch creation and switching to feature branch
+4. feature.txt creation and commit on feature branch
+5. git merge feature - merging feature branch into master
+6. GitHub repo after push - shows README.md and feature.txt
+7. Pull Request creation with title and description
+8. Inline comments on feature.txt lines 1 and 2
+9. Merged Pull Request
+10. Deleted feature branch
